@@ -28,7 +28,7 @@ print()
 print("="*50)
 ```
 ### Berikut hasil dari programnya
-![gambar2](ss/s1.PNG)
+![gambar2](ss/ss2.PNG)
 ### kondisi 2
 ```python
 print("Menampilkan Kontak Arjun Syah")
@@ -40,7 +40,7 @@ print()
 print("="*50)
 ```
 ### Berikut hasil programnya
-![gambar3](ss/s2.PNG)
+![gambar3](ss/ss3.PNG)
 ### Kondisi 3
 ```python
 print("Menambahkan kontak dengan Nama Haikal")
@@ -54,7 +54,7 @@ print()
 print("="*50)
 ```
 ### Berikut hasil programnya
-![gambar4](ss/s3.PNG)
+![gambar4](ss/ss4.PNG)
 ### kondisi 4
 ```python
 print("Mengubah Nomor Siti Nuraisah dengan Nomor 08521267890")
@@ -66,7 +66,7 @@ print()
 print("="*50)
 ```
 ### Berikut hasil programnya
-![gambar5](ss/s4.PNG)
+![gambar5](ss/ss5.PNG)
 ### Kondisi 5
 ```python
 # Menampilkan semua Nama
@@ -79,7 +79,7 @@ print()
 print("="*50)
 ```
 ### Berikut hasil programnya
-![gambar6](ss/s5.PNG)
+![gambar6](ss/ss6.PNG)
 ### Kondisi 6
 ```python
 print("Menampilkan semua Nomor dalam Konntak")
@@ -91,7 +91,7 @@ print()
 print("="*50)
 ```
 ### Berikut hasil programnya
-![gambar7](ss/s6.PNG)
+![gambar7](ss/ss7.PNG)
 ### kondisi 7
 ```python
 print("Menampilkan Semua Daftar Kontak")
@@ -103,7 +103,7 @@ print()
 print("="*50)
 ```
 ### Berikut hasil programnnya
-![gambar8](ss/s7.PNG)
+![gambar8](ss/ss8.PNG)
 ### Kondisi 8
 ```python
 print("Hapus Kontak Haikal")
@@ -115,5 +115,5 @@ print()
 print()
 ```
 ### Berikut hasil programnya
-![gambar9](ss/s8.PNG)
+![gambar9](ss/ss9.PNG)
 ## latihan1 selesai
