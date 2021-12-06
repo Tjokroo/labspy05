@@ -11,16 +11,16 @@ print()
 print()
 print("="*50)
 
-# Menampilkan kontak Arjun Syah
-print("Menampilkan Kontak Arjun Syah")
+# Menampilkan kontak Agung Hapsah
+print("Menampilkan Kontak Agung Hapsah")
 print("="*50)
-print(" # Agung Hapsah      |   ", kontak["Aguung hapsah"])
+print(" # Agung Hapsah      |   ", kontak["Agung Hapsah"])
 print("-"*50)
 print()
 print()
 print("="*50)
 
-# Menambahkan kontak dengna nama haikal 
+# Menambahkan kontak dengna nama Risfiani 
 print("Menambahkan kontak dengan Nama Risfiani")
 print("dengan Nomor telepon 085215376070")
 kontak["Risfiani"]="085215376070"
@@ -31,7 +31,7 @@ print()
 print()
 print("="*50)
 
-# Mengubah Nomor Siti Nuraisah dengan Nomor baru
+# Mengubah Nomor Tjokro winata dengan Nomor baru
 print("Mengubah Nomor Tjokro winata dengan Nomor 081234567890")
 print("="*50)
 print(" # Tjokro winata     |    ", kontak["Tjokro winata"])
@@ -76,4 +76,4 @@ kontak.pop("Risfiani")
 print(kontak.items())
 print("-"*50)
 print()
-print() 
+print()
