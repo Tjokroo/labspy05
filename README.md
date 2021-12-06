@@ -28,45 +28,45 @@ print()
 print("="*50)
 ```
 ### Berikut hasil dari programnya
-![gambar2](ss/ss2.PNG)
+![gambar2](ss/ss2.png)
 ### kondisi 2
 ```python
-print("Menampilkan Kontak Arjun Syah")
+print("Menampilkan Kontak Agung Hapsah")
 print("="*50)
-print(" # Arjun Syah        |   ", kontak["Arjun Syah"])
+print(" # Agung Hapsah      |   ", kontak["Agung Hapsah"])
 print("-"*50)
 print()
 print()
 print("="*50)
 ```
 ### Berikut hasil programnya
-![gambar3](ss/ss3.PNG)
+![gambar3](ss/ss3.png)
 ### Kondisi 3
 ```python
-print("Menambahkan kontak dengan Nama Haikal")
+print("Menambahkan kontak dengan Nama Risfiani")
 print("dengan Nomor telepon 085215376070")
-kontak["Haikal"]="085215376070"
+kontak["Risfiani"]="085215376070"
 print("="*50)
-print(" # Haikal            |   ", kontak["Haikal"])
+print(" # Risfiani          |   ", kontak["Risfiani"])
 print("-"*50)
 print()
 print()
 print("="*50)
 ```
 ### Berikut hasil programnya
-![gambar4](ss/ss4.PNG)
+![gambar4](ss/ss4.png)
 ### kondisi 4
 ```python
-print("Mengubah Nomor Siti Nuraisah dengan Nomor 08521267890")
+print("Mengubah Nomor Tjokro winata dengan Nomor 081234567890")
 print("="*50)
-print(" # Siti Nuraisah     |    ", kontak["Siti Nuraisah"])
+print(" # Tjokro winata     |    ", kontak["Tjokro winata"])
 print("-"*50)
 print()
 print()
 print("="*50)
 ```
 ### Berikut hasil programnya
-![gambar5](ss/ss5.PNG)
+![gambar5](ss/ss5.png)
 ### Kondisi 5
 ```python
 # Menampilkan semua Nama
@@ -79,7 +79,7 @@ print()
 print("="*50)
 ```
 ### Berikut hasil programnya
-![gambar6](ss/ss6.PNG)
+![gambar6](ss/ss6.png)
 ### Kondisi 6
 ```python
 print("Menampilkan semua Nomor dalam Konntak")
@@ -91,7 +91,7 @@ print()
 print("="*50)
 ```
 ### Berikut hasil programnya
-![gambar7](ss/ss7.PNG)
+![gambar7](ss/ss7.png)
 ### kondisi 7
 ```python
 print("Menampilkan Semua Daftar Kontak")
@@ -103,7 +103,7 @@ print()
 print("="*50)
 ```
 ### Berikut hasil programnnya
-![gambar8](ss/ss8.PNG)
+![gambar8](ss/ss8.png)
 ### Kondisi 8
 ```python
 print("Hapus Kontak Haikal")
@@ -115,5 +115,5 @@ print()
 print()
 ```
 ### Berikut hasil programnya
-![gambar9](ss/ss9.PNG)
+![gambar9](ss/ss9.png)
 ## latihan1 selesai
